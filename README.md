@@ -14,7 +14,7 @@ JavaScript
 React (Learning)
 Git & GitHub
 🌐 Portfolio
-https://gurmeetportfolio.github.io
+https://rdxdeeshu.github.io/gurmeetportfolio.github.io/
 
 📫 Connect with me
 GitHub: https://github.com/rdxdeeshu
