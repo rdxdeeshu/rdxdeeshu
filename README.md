@@ -3,7 +3,7 @@ Frontend Developer | BCA Student
 I’m an aspiring Frontend Developer passionate about building responsive and user-friendly websites.
 
 🎓 BCA Student (2026)
-💻 Currently learning HTML, CSS, JavaScript & React
+💻 I have knowledege of HTML, CSS, JavaScript & React
 🚀 Interested in Web Development
 🌱 Improving my coding and problem-solving skills
 📍 Delhi, India
@@ -13,6 +13,7 @@ CSS3
 JavaScript
 React (Learning)
 Git & GitHub
+
 🌐 Portfolio
 https://rdxdeeshu.github.io/gurmeetportfolio.github.io/
 
